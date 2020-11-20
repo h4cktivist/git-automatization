@@ -4,6 +4,7 @@
 
 ### What does script do?
 - Creates new folder with name of your project
+- Creates README.md
 - Authorizes into your GitHub account and creates new repository
 - Does git init, git remote, git commit and push
 
