@@ -10,3 +10,20 @@
 
 
 P.S Idea for script was taken from [@KalleHallden](https://github.com/KalleHallden) I made his script only on Python, without using shell scripts.
+
+
+### Install
+
+```sh
+git clone https://github.com/h4cktivist/git-automatization.git
+cd git-automatization
+pip install -r requirements.txt
+```
+
+
+### Usage
+Put the git-auto.py to directory where you want to create a project.
+Then use:
+```sh
+python git-auto.py
+```
