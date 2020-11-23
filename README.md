@@ -9,7 +9,7 @@
 - Does git init, git remote, git commit and push
 
 
-P.S Idea for script was taken from [@KalleHallden](https://github.com/KalleHallden) I made his script only on Python, without using shell scripts.
+P.S Idea for script was taken from [@KalleHallden](https://github.com/KalleHallden/ProjectInitializationAutomation) I made his script only on Python, without using shell scripts.
 
 
 ### Install
