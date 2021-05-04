@@ -22,8 +22,10 @@ pip install -r requirements.txt
 
 
 ### Usage
-Put the git-auto.py to directory where you want to create a project.
-Then use:
+Open `git-auto.py` then change `github_username`, `github_password` and `browser` variables up to you.
+
+
+Then you can use:
 ```sh
-python git-auto.py
+python git-auto.py <full path to dir where you want to create a project> <project name>
 ```

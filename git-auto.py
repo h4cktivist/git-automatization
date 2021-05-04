@@ -1,5 +1,7 @@
 import time
 import os
+import sys
+
 from selenium import webdriver
 
 
@@ -9,7 +11,10 @@ github_password = 'your_GitHub_password'
 
 
 # create a folder for project
-project_name = input('Enter your project name: ')
+path = sys.argv[1]
+project_name = sys.argv[2]
+
+os.chdir(path)
 os.mkdir(project_name)
 os.chdir(project_name)
 
